@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C_Pointer_Practice.cpp">
+    <ClCompile Include="sizeof.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
