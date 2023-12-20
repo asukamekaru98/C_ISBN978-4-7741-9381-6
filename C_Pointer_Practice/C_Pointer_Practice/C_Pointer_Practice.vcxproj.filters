@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sizeof.c">
+    <ClCompile Include="pointer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
