@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pointer_calc.c">
+    <ClCompile Include="get_xy.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
