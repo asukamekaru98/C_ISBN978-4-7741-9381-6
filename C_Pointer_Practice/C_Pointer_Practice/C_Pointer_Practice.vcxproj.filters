@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="array2.c">
+    <ClCompile Include="get_word.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
