@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="vla.c">
+    <ClCompile Include="vmtest.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
