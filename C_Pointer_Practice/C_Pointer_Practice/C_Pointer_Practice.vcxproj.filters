@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="print_address.c">
+    <ClCompile Include="func_ptr.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
