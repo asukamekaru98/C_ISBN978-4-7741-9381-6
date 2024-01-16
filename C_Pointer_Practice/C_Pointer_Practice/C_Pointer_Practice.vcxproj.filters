@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="add_func.c">
+    <ClCompile Include="buffer_overflow.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
