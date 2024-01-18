@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="buffer_overflow.c">
+    <ClCompile Include="tiny_prinntf.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
