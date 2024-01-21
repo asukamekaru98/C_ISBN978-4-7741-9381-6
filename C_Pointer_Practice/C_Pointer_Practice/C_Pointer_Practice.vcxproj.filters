@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tiny_prinntf.c">
+    <ClCompile Include="permutation.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
