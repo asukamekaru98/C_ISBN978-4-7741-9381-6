@@ -15,8 +15,8 @@ void print_result(void)
 
 	for (i = 0; i < r; i++) {
 		printf("%d ", result[i]);
-		printf("\n");
 	}
+	printf("\n");
 }
 
 void permutation(int nth) {

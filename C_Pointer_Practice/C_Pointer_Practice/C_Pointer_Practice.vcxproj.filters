@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="permutation.c">
+    <ClCompile Include="vla2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
