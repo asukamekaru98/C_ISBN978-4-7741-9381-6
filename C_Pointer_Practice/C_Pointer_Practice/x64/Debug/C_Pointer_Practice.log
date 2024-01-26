@@ -1,13 +1,2 @@
-﻿  vla2.c
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(8,13): error C2057: 定数式が必要です。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(8,18): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(8,6): error C2133: 'array1': サイズが不明です。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(10,13): error C2057: 定数式が必要です。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(10,18): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(10,20): error C2057: 定数式が必要です。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(10,25): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(10,6): error C2087: 'array2': 添字がありません。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(10,6): error C2133: 'array2': サイズが不明です。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(15,36): warning C4312: '型キャスト': 'int' からより大きいサイズの 'void *' へ変換します。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(16,36): warning C4312: '型キャスト': 'int' からより大きいサイズの 'void *' へ変換します。
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\vla2.c(17,36): warning C4312: '型キャスト': 'int' からより大きいサイズの 'void *' へ変換します。
+﻿  alignment.c
+  C_Pointer_Practice.vcxproj -> D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\x64\Debug\C_Pointer_Practice.exe
