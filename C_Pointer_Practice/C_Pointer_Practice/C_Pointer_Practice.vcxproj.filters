@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="alignment.c">
+    <ClCompile Include="output_argument.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
