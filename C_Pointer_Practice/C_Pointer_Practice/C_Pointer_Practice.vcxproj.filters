@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pass_array.c">
+    <ClCompile Include="variable_array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
