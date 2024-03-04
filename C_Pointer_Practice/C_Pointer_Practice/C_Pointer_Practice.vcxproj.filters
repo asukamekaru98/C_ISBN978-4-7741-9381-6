@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="variable_array.c">
+    <ClCompile Include="realloc.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
