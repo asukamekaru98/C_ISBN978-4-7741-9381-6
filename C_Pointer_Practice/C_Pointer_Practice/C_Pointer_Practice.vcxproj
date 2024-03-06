@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="read_slogan.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="read_line.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="read_line.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
