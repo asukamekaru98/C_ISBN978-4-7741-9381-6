@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="read_line.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="read_file.c">
+    <ClCompile Include="cat.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

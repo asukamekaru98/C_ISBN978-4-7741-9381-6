@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="read_file.c" />
-    <ClCompile Include="read_line.c" />
+    <ClCompile Include="cat.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="read_line.h" />
