@@ -15,12 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cat.c">
+    <ClCompile Include="read_line_KAI.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main_KAI.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="read_line.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="read_line_KAI.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

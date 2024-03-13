@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cat.c" />
+    <ClCompile Include="main_KAI.c" />
+    <ClCompile Include="read_line_KAI.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="read_line.h" />
+    <ClInclude Include="read_line_KAI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
