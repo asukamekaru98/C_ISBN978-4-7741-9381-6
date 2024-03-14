@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main_KAI.c" />
+    <ClCompile Include="pass_2d_array.c" />
     <ClCompile Include="read_line_KAI.c" />
   </ItemGroup>
   <ItemGroup>

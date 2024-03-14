@@ -18,7 +18,7 @@
     <ClCompile Include="read_line_KAI.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main_KAI.c">
+    <ClCompile Include="pass_2d_array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
