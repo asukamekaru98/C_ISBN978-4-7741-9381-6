@@ -1,2 +1,9 @@
 ﻿  pass_2d_array.c
-  C_Pointer_Practice.vcxproj -> D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\x64\Debug\C_Pointer_Practice.exe
+  pass_2d_array_C99.c
+D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\pass_2d_array_C99.c(4,40): error C2057: 定数式が必要です。
+D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\pass_2d_array_C99.c(4,45): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\pass_2d_array_C99.c(4,47): error C2057: 定数式が必要です。
+D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\pass_2d_array_C99.c(4,52): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\pass_2d_array_C99.c(4,35): error C2087: 'hoge': 添字がありません。
+D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\C_Pointer_Practice\pass_2d_array_C99.c(24,11): warning C4048: 'int (*)[1]' と 'int [4][3]' で配列の添字が異なります。
+  コードを生成中...

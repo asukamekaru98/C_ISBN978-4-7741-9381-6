@@ -21,6 +21,9 @@
     <ClCompile Include="pass_2d_array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pass_2d_array_C99.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="read_line.h">
