@@ -127,13 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="pass_2d_array.c" />
-    <ClCompile Include="pass_2d_array_C99.c" />
-    <ClCompile Include="read_line_KAI.c" />
+    <ClCompile Include="callbyreference.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="read_line.h" />
-    <ClInclude Include="read_line_KAI.h" />
+    <None Include="javaswap.java" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

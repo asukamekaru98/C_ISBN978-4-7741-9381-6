@@ -15,22 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="read_line_KAI.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pass_2d_array.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pass_2d_array_C99.c">
+    <ClCompile Include="callbyreference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="read_line.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="read_line_KAI.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
+    <None Include="javaswap.java" />
   </ItemGroup>
 </Project>
