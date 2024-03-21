@@ -127,11 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="add_word.c" />
+    <ClCompile Include="dump_word.c" />
+    <ClCompile Include="finalize.c" />
+    <ClCompile Include="initialize.c" />
     <ClCompile Include="main2.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="get_word.h" />
     <ClInclude Include="word_manage.h" />
+    <ClInclude Include="word_manage_p.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
