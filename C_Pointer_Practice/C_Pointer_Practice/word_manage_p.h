@@ -4,15 +4,15 @@
 #define WORD_MANAGE_P_H_INCLUDE
 
 typedef struct {
-	char* name;
-	int count;
+	char* name;		
+	int count;		//’PŒê‚ÌoŒ»‰ñ”
 
 }Word;
 
 #define WORD_NUM_MAX 100000
 
-extern Word word_array[];
-extern int num_of_word;
+extern Word word_array[];	
+extern int num_of_word;		//’PŒê”
 
 
 #endif
