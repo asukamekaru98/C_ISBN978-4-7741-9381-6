@@ -30,6 +30,18 @@
     <ClCompile Include="finalize.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LL_initialize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LL_add_word.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LL_dump_word.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LL_finalize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="get_word.h">
@@ -39,6 +51,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="word_manage_p.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LL_word_manage_p.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
