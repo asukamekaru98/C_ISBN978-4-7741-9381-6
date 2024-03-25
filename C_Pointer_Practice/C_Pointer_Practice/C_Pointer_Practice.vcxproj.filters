@@ -45,6 +45,9 @@
     <ClCompile Include="get_word_count.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="draw_shapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="get_word.h">

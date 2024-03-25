@@ -11,12 +11,12 @@ typedef struct {
 	int red;
 	int green;
 	int blue;
-};
+}Color;
 
 typedef enum {
 	FILL_NONE,	//“h‚è‚Â‚Ô‚³‚È‚¢
 	FILL_SOLID	//“h‚è‚Â‚Ô‚µ
-};
+}FillPattern;
 
 typedef enum {
 	POLYLINE_PRIMITIVE,
@@ -48,7 +48,42 @@ typedef struct {
 typedef struct {
 	PrimitiveType type;
 	Color line_color;
+	FillPattern fill_pattern;
+	Color fill_color;
+
+	union {
+		Polylie polyline;
+		Rectangle rectangle;
+		Ellipse ellipse;
+	}u;
+}Primitive;
+
+
+typedef struct Shape_tag Shape;
+
+typedef struct {
+	Shape* head;
+	Shape* tail;
+}Group;
+
+typedef enum {
+	PRIMITIVE_SHAPE,
+	GROUP_SHAPE
+}ShapeType;
+
+struct Shape_tag {
+	ShapeType type;
+	Boolean selected;
+	union {
+		Primitive primitive;
+		Group group;
+	}u;
+
+	struct Shape_tag* prev;
+	struct Shape_tag* next;
 };
+
+
 
 
 
