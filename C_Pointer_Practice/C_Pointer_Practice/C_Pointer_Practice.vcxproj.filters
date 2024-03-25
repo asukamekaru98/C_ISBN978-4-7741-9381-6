@@ -42,6 +42,9 @@
     <ClCompile Include="LL_finalize.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="get_word_count.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="get_word.h">
@@ -54,6 +57,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="LL_word_manage_p.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -130,6 +130,7 @@
     <ClCompile Include="add_word.c" />
     <ClCompile Include="dump_word.c" />
     <ClCompile Include="finalize.c" />
+    <ClCompile Include="get_word_count.c" />
     <ClCompile Include="initialize.c" />
     <ClCompile Include="LL_add_word.c" />
     <ClCompile Include="LL_dump_word.c" />
@@ -140,6 +141,7 @@
   <ItemGroup>
     <ClInclude Include="get_word.h" />
     <ClInclude Include="LL_word_manage_p.h" />
+    <ClInclude Include="shape.h" />
     <ClInclude Include="word_manage.h" />
     <ClInclude Include="word_manage_p.h" />
   </ItemGroup>
