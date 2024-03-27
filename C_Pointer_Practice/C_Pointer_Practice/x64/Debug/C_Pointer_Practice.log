@@ -1,6 +1,1 @@
-﻿  add_word.c
-  dump_word.c
-  finalize.c
-  コードを生成中...
-main2.obj : error LNK2019: 未解決の外部シンボル get_word が関数 main で参照されました
-D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\x64\Debug\C_Pointer_Practice.exe : fatal error LNK1120: 1 件の未解決の外部参照
+﻿  C_Pointer_Practice.vcxproj -> D:\git\C_ISBN978-4-7741-9381-6\C_Pointer_Practice\x64\Debug\C_Pointer_Practice.exe
