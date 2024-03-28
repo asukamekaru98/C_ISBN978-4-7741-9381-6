@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="integerpromotion.c">
+    <ClCompile Include="designated_initializer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
