@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="designated_initializer.c">
+    <ClCompile Include="compund_literal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
